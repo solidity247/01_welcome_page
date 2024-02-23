@@ -31,10 +31,11 @@ label {
 }
 
 input {
-  width: 200px; /* Adjusted input width */
+  width: 400px; /* Adjusted input width */
   padding: 10px;
   margin-bottom: 20px;
   box-sizing: border-box;
+  font-size: 1.5em;
 }
 
 button {
