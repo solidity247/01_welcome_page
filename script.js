@@ -17,4 +17,5 @@ function hideForm() {
 
 function handleInput(input) {
   // TODO:
+  return "Hi";
 }
